@@ -14,4 +14,4 @@ My researches focus on uncovering the computational principles for real-world se
 
 Representative publication:
 
-Chien, H.-Y.S., and Honey, C.J. (2020). Constructing and Forgetting Temporal Context in the Human Cerebral Cortex. Neuron.  [pdf](
+Chien, H.-Y.S., and Honey, C.J. (2020). Constructing and Forgetting Temporal Context in the Human Cerebral Cortex. *Neuron*.  [pdf](files/Chien_Honey_2020.pdf)
