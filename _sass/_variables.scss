@@ -56,15 +56,15 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
+$code-background-color-dark : $darker-gray;
 $text-color                 : $darker-gray;
-$border-color               : $lighter-gray;
+$border-color               : $darker-gray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #fff5b1;
+$info-color                 : #416280;
 
 /* brands */
 $behance-color              : #1769FF;
