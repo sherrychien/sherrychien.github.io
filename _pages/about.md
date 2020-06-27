@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 4th year PhD student in the [Department of Psychological and Brain Sciences at JHU](https://pbs.jhu.edu/) supervised by [Dr. Christopher Honey](http://www.honeylab.org/). Before coming to JHU, I received my B.S. in Electrical Engineering at National Taiwan University, and worked in National Taiwan University Hospital doing research in clinical neuroscience.
 
-My researches focus on uncovering the computational principles for real-world sequence processing and learning in human brain and mind, including natural language processing. My work is best described as computational cognitive neuroscience, as I apply machine learning and computational modeling tools to human behavioral and neuroimaging data, and develop brain-inspired model architecture by adapting findings in neuroscience and cognitive science. My goal is to bridge cognitive neuroscience and AI to create human-like machines.
+My research focuses on uncovering the computational principles for real-world sequence processing and learning in human brain and mind, including natural language processing. My work is best described as computational cognitive neuroscience, as I apply machine learning and computational modeling tools to human behavioral and neuroimaging data, and develop brain-inspired model architecture by adapting findings in neuroscience and cognitive science. My goal is to bridge cognitive neuroscience and AI to create human-like machines.
 
 Representative publication:
 
