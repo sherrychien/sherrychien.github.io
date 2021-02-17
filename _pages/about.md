@@ -14,5 +14,6 @@ My PhD research focuses on understanding how the human brain processes real-worl
 
 Representative publication:
 
-Chien, H.-Y. S., and Honey, C. J. (2020). Constructing and Forgetting Temporal Context in the Human Cerebral Cortex. *Neuron*.  [pdf](files/Chien_Honey_2020.pdf)
-Chien, H.-Y. S., Zhang, J. and Honey, C. J. (2021) Mapping the Timescale Organization of Neural Language Models, International Conference on Learning Representations (ICLR) accepted as poster presentation, [arXiv] (https://arxiv.org/abs/2012.06717)
+Chien, H.-Y. S., and Honey, C. J. (2020). Constructing and Forgetting Temporal Context in the Human Cerebral Cortex. *Neuron*.  [[pdf]](files/Chien_Honey_2020.pdf)
+
+Chien, H.-Y. S., Zhang, J. and Honey, C. J. (2021) Mapping the Timescale Organization of Neural Language Models. *International Conference on Learning Representations (ICLR) accepted as poster presentation*  [[arXiv]](https://arxiv.org/abs/2012.06717)
